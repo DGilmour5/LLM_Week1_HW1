@@ -12,6 +12,7 @@ pinned: false
      height="auto"/>
 </p>
 
+Doug Added This.
 
 ## <h1 align="center" id="heading">:wave: Welcome to Beyond ChatGPT!!</h1>
 
